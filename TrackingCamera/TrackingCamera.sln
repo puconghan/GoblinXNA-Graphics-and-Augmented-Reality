@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrackingCamera", "TrackingCamera\TrackingCamera\TrackingCamera.csproj", "{1543E7FF-324E-4892-908B-1DD53D523C1F}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "TrackingCameraContent", "TrackingCamera\TrackingCameraContent\TrackingCameraContent.contentproj", "{58C2034A-529D-4101-80FB-39053E5831ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1543E7FF-324E-4892-908B-1DD53D523C1F}.Debug|x86.ActiveCfg = Debug|x86
+		{1543E7FF-324E-4892-908B-1DD53D523C1F}.Debug|x86.Build.0 = Debug|x86
+		{1543E7FF-324E-4892-908B-1DD53D523C1F}.Release|x86.ActiveCfg = Release|x86
+		{1543E7FF-324E-4892-908B-1DD53D523C1F}.Release|x86.Build.0 = Release|x86
+		{58C2034A-529D-4101-80FB-39053E5831ED}.Debug|x86.ActiveCfg = Debug|x86
+		{58C2034A-529D-4101-80FB-39053E5831ED}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

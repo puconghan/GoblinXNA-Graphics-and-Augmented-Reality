@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>humvee.fbx</Source>
+      <Name>humvee</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Pucong Han\Desktop\TrackingCamera\TrackingCamera\TrackingCamera\bin\x86\Release\Content\humvee.xnb</Output>
+      <Time>2012-03-11T15:18:20.3079674+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\humvee_0.xml</Key>
+        <Value>2012-03-22T03:39:38.8052579+08:00</Value>
+      </Dependency>
+      <Request>C:\Users\Pucong Han\Desktop\TrackingCamera\TrackingCamera\TrackingCamera\bin\x86\Release\Content\FBX\6EB92458\humvee.fbm\car_0.xnb</Request>
+      <Request>C:\Users\Pucong Han\Desktop\TrackingCamera\TrackingCamera\TrackingCamera\bin\x86\Release\Content\FBX\6EB92458\humvee.fbm\tyre_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>gears.FBX</Source>
+      <Name>gears</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Pucong Han\Desktop\TrackingCamera\TrackingCamera\TrackingCamera\bin\x86\Release\Content\gears.xnb</Output>
+      <Time>2012-03-13T11:53:16.8604337+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\gears_0.xml</Key>
+        <Value>2012-03-22T03:40:08.3829497+08:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>bardak.FBX</Source>
+      <Name>bardak</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Pucong Han\Desktop\TrackingCamera\TrackingCamera\TrackingCamera\bin\x86\Release\Content\bardak.xnb</Output>
+      <Time>2012-03-13T12:01:02.7760826+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\bardak_0.xml</Key>
+        <Value>2012-03-22T03:40:16.5934193+08:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>g36c.fbx</Source>
+      <Name>g36c</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Pucong Han\Desktop\TrackingCamera\TrackingCamera\TrackingCamera\bin\x86\Release\Content\g36c.xnb</Output>
+      <Time>2012-03-13T12:01:02.7850831+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\g36c_0.xml</Key>
+        <Value>2012-03-22T03:40:17.2034542+08:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>workladder.fbx</Source>
+      <Name>workladder</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Pucong Han\Desktop\TrackingCamera\TrackingCamera\TrackingCamera\bin\x86\Release\Content\workladder.xnb</Output>
+      <Time>2012-03-13T12:22:27.8835865+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\workladder_0.xml</Key>
+        <Value>2012-03-22T03:40:21.0606748+08:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Arial.spritefont</Source>
+      <Name>Arial</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Pucong Han\Desktop\TrackingCamera\TrackingCamera\TrackingCamera\bin\x86\Release\Content\Arial.xnb</Output>
+      <Time>2012-03-19T09:01:00.4297115+08:00</Time>
+    </Item>
+    <Item>
+      <Source>ArialLarge.spritefont</Source>
+      <Name>ArialLarge</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Pucong Han\Desktop\TrackingCamera\TrackingCamera\TrackingCamera\bin\x86\Release\Content\ArialLarge.xnb</Output>
+      <Time>2012-03-20T12:27:18.8354833+08:00</Time>
+    </Item>
+    <Item>
+      <Source>humvee.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\humvee_0.xml</Output>
+      <Time>2012-03-11T15:18:20.3079674+08:00</Time>
+    </Item>
+    <Item>
+      <Source>obj\x86\Release\FBX\6EB92458\humvee.fbm\car.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Pucong Han\Desktop\TrackingCamera\TrackingCamera\TrackingCamera\bin\x86\Release\Content\FBX\6EB92458\humvee.fbm\car_0.xnb</Output>
+      <Time>2012-03-22T03:39:38.4332366+08:00</Time>
+    </Item>
+    <Item>
+      <Source>obj\x86\Release\FBX\6EB92458\humvee.fbm\tyre.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Pucong Han\Desktop\TrackingCamera\TrackingCamera\TrackingCamera\bin\x86\Release\Content\FBX\6EB92458\humvee.fbm\tyre_0.xnb</Output>
+      <Time>2012-03-22T03:39:38.4422371+08:00</Time>
+    </Item>
+    <Item>
+      <Source>gears.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\gears_0.xml</Output>
+      <Time>2012-03-13T11:53:16.8604337+08:00</Time>
+    </Item>
+    <Item>
+      <Source>bardak.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\bardak_0.xml</Output>
+      <Time>2012-03-13T12:01:02.7760826+08:00</Time>
+    </Item>
+    <Item>
+      <Source>g36c.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\g36c_0.xml</Output>
+      <Time>2012-03-13T12:01:02.7850831+08:00</Time>
+    </Item>
+    <Item>
+      <Source>workladder.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\workladder_0.xml</Output>
+      <Time>2012-03-13T12:22:27.8835865+08:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\Pucong Han\Desktop\TrackingCamera\TrackingCamera\TrackingCameraContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Pucong Han\Desktop\TrackingCamera\TrackingCamera\TrackingCamera\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Pucong Han\Desktop\TrackingCamera\TrackingCamera\TrackingCameraContent\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Pucong Han\Desktop\TrackingCamera\TrackingCamera\TrackingCamera\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-02-03T06:52:39.0965907+08:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

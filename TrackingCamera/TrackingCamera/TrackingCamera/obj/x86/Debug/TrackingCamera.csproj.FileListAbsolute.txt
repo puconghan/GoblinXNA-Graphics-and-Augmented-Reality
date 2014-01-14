@@ -1,0 +1,45 @@
+c:\users\pucong han\documents\visual studio 2010\Projects\TrackingCamera\TrackingCamera\TrackingCamera\bin\x86\Debug\TrackingCamera.exe
+c:\users\pucong han\documents\visual studio 2010\Projects\TrackingCamera\TrackingCamera\TrackingCamera\bin\x86\Debug\TrackingCamera.pdb
+c:\users\pucong han\documents\visual studio 2010\Projects\TrackingCamera\TrackingCamera\TrackingCamera\bin\x86\Debug\GoblinXNA.dll
+c:\users\pucong han\documents\visual studio 2010\Projects\TrackingCamera\TrackingCamera\TrackingCamera\bin\x86\Debug\Lidgren.Network.dll
+c:\users\pucong han\documents\visual studio 2010\Projects\TrackingCamera\TrackingCamera\TrackingCamera\bin\x86\Debug\NewtonWrapper.dll
+c:\users\pucong han\documents\visual studio 2010\Projects\TrackingCamera\TrackingCamera\TrackingCamera\bin\x86\Debug\Nuclex.Fonts.dll
+c:\users\pucong han\documents\visual studio 2010\Projects\TrackingCamera\TrackingCamera\TrackingCamera\bin\x86\Debug\GoblinXNA.pdb
+c:\users\pucong han\documents\visual studio 2010\Projects\TrackingCamera\TrackingCamera\TrackingCamera\bin\x86\Debug\GoblinXNA.xml
+c:\users\pucong han\documents\visual studio 2010\Projects\TrackingCamera\TrackingCamera\TrackingCamera\bin\x86\Debug\Lidgren.Network.xml
+c:\users\pucong han\documents\visual studio 2010\Projects\TrackingCamera\TrackingCamera\TrackingCamera\bin\x86\Debug\Nuclex.Fonts.xml
+c:\users\pucong han\documents\visual studio 2010\Projects\TrackingCamera\TrackingCamera\TrackingCamera\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\pucong han\documents\visual studio 2010\Projects\TrackingCamera\TrackingCamera\TrackingCamera\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\pucong han\documents\visual studio 2010\Projects\TrackingCamera\TrackingCamera\TrackingCamera\obj\x86\Debug\TrackingCamera.exe
+c:\users\pucong han\documents\visual studio 2010\Projects\TrackingCamera\TrackingCamera\TrackingCamera\obj\x86\Debug\TrackingCamera.pdb
+C:\Users\Pucong Han\Documents\Visual Studio 2010\Projects\TrackingCamera\TrackingCamera\TrackingCamera\bin\x86\Debug\DirectX.Capture.dll
+C:\Users\Pucong Han\Documents\Visual Studio 2010\Projects\TrackingCamera\TrackingCamera\TrackingCamera\bin\x86\Debug\Content\humvee.xnb
+C:\Users\Pucong Han\Documents\Visual Studio 2010\Projects\TrackingCamera\TrackingCamera\TrackingCamera\bin\x86\Debug\Content\FBX\20272F81\humvee.fbm\car_0.xnb
+C:\Users\Pucong Han\Documents\Visual Studio 2010\Projects\TrackingCamera\TrackingCamera\TrackingCamera\bin\x86\Debug\Content\FBX\20272F81\humvee.fbm\tyre_0.xnb
+C:\Users\Pucong Han\Documents\Visual Studio 2010\Projects\TrackingCamera\TrackingCamera\TrackingCamera\bin\x86\Debug\Content\gears.xnb
+C:\Users\Pucong Han\Documents\Visual Studio 2010\Projects\TrackingCamera\TrackingCamera\TrackingCamera\bin\x86\Debug\Content\bardak.xnb
+C:\Users\Pucong Han\Documents\Visual Studio 2010\Projects\TrackingCamera\TrackingCamera\TrackingCamera\bin\x86\Debug\Content\g36c.xnb
+C:\Users\Pucong Han\Documents\Visual Studio 2010\Projects\TrackingCamera\TrackingCamera\TrackingCamera\bin\x86\Debug\Content\workladder.xnb
+C:\Users\Pucong Han\Desktop\TrackingCamera\TrackingCamera\TrackingCamera\bin\x86\Debug\Content\humvee.xnb
+C:\Users\Pucong Han\Desktop\TrackingCamera\TrackingCamera\TrackingCamera\bin\x86\Debug\Content\gears.xnb
+C:\Users\Pucong Han\Desktop\TrackingCamera\TrackingCamera\TrackingCamera\bin\x86\Debug\Content\bardak.xnb
+C:\Users\Pucong Han\Desktop\TrackingCamera\TrackingCamera\TrackingCamera\bin\x86\Debug\Content\g36c.xnb
+C:\Users\Pucong Han\Desktop\TrackingCamera\TrackingCamera\TrackingCamera\bin\x86\Debug\Content\workladder.xnb
+C:\Users\Pucong Han\Desktop\TrackingCamera\TrackingCamera\TrackingCamera\bin\x86\Debug\Content\FBX\6EB92458\humvee.fbm\car_0.xnb
+C:\Users\Pucong Han\Desktop\TrackingCamera\TrackingCamera\TrackingCamera\bin\x86\Debug\Content\FBX\6EB92458\humvee.fbm\tyre_0.xnb
+C:\Users\Pucong Han\Desktop\TrackingCamera\TrackingCamera\TrackingCamera\bin\x86\Debug\TrackingCamera.exe
+C:\Users\Pucong Han\Desktop\TrackingCamera\TrackingCamera\TrackingCamera\bin\x86\Debug\TrackingCamera.pdb
+C:\Users\Pucong Han\Desktop\TrackingCamera\TrackingCamera\TrackingCamera\bin\x86\Debug\Lidgren.Network.dll
+C:\Users\Pucong Han\Desktop\TrackingCamera\TrackingCamera\TrackingCamera\bin\x86\Debug\NewtonWrapper.dll
+C:\Users\Pucong Han\Desktop\TrackingCamera\TrackingCamera\TrackingCamera\bin\x86\Debug\Nuclex.Fonts.dll
+C:\Users\Pucong Han\Desktop\TrackingCamera\TrackingCamera\TrackingCamera\bin\x86\Debug\DirectX.Capture.dll
+C:\Users\Pucong Han\Desktop\TrackingCamera\TrackingCamera\TrackingCamera\bin\x86\Debug\GoblinXNA.pdb
+C:\Users\Pucong Han\Desktop\TrackingCamera\TrackingCamera\TrackingCamera\bin\x86\Debug\GoblinXNA.xml
+C:\Users\Pucong Han\Desktop\TrackingCamera\TrackingCamera\TrackingCamera\bin\x86\Debug\Lidgren.Network.xml
+C:\Users\Pucong Han\Desktop\TrackingCamera\TrackingCamera\TrackingCamera\bin\x86\Debug\Nuclex.Fonts.xml
+C:\Users\Pucong Han\Desktop\TrackingCamera\TrackingCamera\TrackingCamera\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Pucong Han\Desktop\TrackingCamera\TrackingCamera\TrackingCamera\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Pucong Han\Desktop\TrackingCamera\TrackingCamera\TrackingCamera\obj\x86\Debug\TrackingCamera.exe
+C:\Users\Pucong Han\Desktop\TrackingCamera\TrackingCamera\TrackingCamera\obj\x86\Debug\TrackingCamera.pdb
+C:\Users\Pucong Han\Desktop\TrackingCamera\TrackingCamera\TrackingCamera\bin\x86\Debug\Content\Arial.xnb
+C:\Users\Pucong Han\Desktop\TrackingCamera\TrackingCamera\TrackingCamera\bin\x86\Debug\Content\ArialLarge.xnb
